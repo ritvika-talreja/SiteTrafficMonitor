@@ -1,4 +1,4 @@
-# Web Analytics Dashboard and Forecasting
+# Site Traffic Monitor
 
 ## Overview
 This project analyzes website traffic and user engagement patterns using Python. It includes data processing, visualization, and time series forecasting to understand user behavior and predict future traffic patterns.
