@@ -6,6 +6,8 @@ This project analyzes website traffic and user engagement patterns using Python.
 ## Project Architecture
 
 ### Data Flow
+![Data Flow](DataFlow/Flowchart.png)
+   
 
 
 ## Features
