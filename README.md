@@ -97,13 +97,6 @@ sarima_model = SARIMAX(time_series_data,
 sarima_model_fit = sarima_model.fit()
 ```
 
-## Future Improvements
-1. Add real-time data processing capabilities
-2. Implement more advanced forecasting models
-3. Create interactive dashboard
-4. Add anomaly detection
-5. Develop automated reporting system
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
